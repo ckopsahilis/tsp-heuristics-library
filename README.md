@@ -9,9 +9,8 @@ A modular, extensible Python library for solving the Traveling Salesperson Probl
   - Greedy (Multi-Fragment)
   - Insertion Heuristics (Nearest, Cheapest, Farthest)
 - **Improvement Heuristics**:
-  - **Trajectory Based**: Simulated Annealing, Tabu Search
+  - **Trajectory Based**: Simulated Annealing, Tabu Search, Local Search Operators (Swap, Relocate, 2-Opt, 3-Opt)
   - **Population Based**: Genetic Algorithm, Particle Swarm Optimization (PSO), Ant Colony Optimization (ACO)
-  - **Local Search**: Swap, Relocate, 2-Opt, 3-Opt
 - **Benchmark Tools**: Built-in script to benchmark all algorithms on standard TSPLIB instances.
 
 ## Installation
