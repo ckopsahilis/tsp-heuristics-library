@@ -16,15 +16,10 @@ A modular, extensible Python library for solving the Traveling Salesperson Probl
 
 ## Installation
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tsp_library.git
+   git clone https://github.com/ckopsahilis/tsp-heuristics-library.git
    cd tsp_library
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
